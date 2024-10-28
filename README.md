@@ -1,4 +1,4 @@
-# Durin NFT Contracts
+# Gon.id NFT Contracts
 
 These contracts, developed with Unruggable, allow you to issue NFT subnames on an L2 network. Follow the steps below to set up and deploy the contracts.
 
